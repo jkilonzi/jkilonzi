@@ -57,6 +57,11 @@ I am a third-year Bachelor of Science student specializing in **Computer Securit
 - Packet Tracer, GNS3, pfSense, Docker, Virtual Machines
 ```
 
+## 🏆 TryHackMe Badges
+
+![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/k40t1k.png)
+
+
 ## 🔗 Get in Touch
 
 - **LinkedIn:** [YourLinkedInProfile](https://linkedin.com/in/yourusername)
