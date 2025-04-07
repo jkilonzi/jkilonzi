@@ -61,7 +61,7 @@ I am a third-year Bachelor of Science student specializing in **Computer Securit
 
 ## 🔗 Get in Touch
 
-- **LinkedIn:** [YourLinkedInProfile](https://linkedin.com/in/yourusername)
+- **LinkedIn:** [YourLinkedInProfile](https://www.linkedin.com/in/john-maluki-8112901bb/)
 
 
 
